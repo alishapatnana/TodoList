@@ -16,6 +16,9 @@ namespace TodoList.Repository
                 new TodoItem {  Id="001",Name = "Conference with Client", Category = "Meeting for Project"},
                 new TodoItem {  Id="002",Name = "Project Discussion", Category = "Meet with Manager"},
                 new TodoItem {  Id="003",Name = "WorkFlow Discussion", Category = "Meeting for Project ID 1250043"},
+                new TodoItem {  Id="004",Name = "Cultural Event", Category = "Celebration"},
+                new TodoItem {  Id="005",Name = "Requirement Meet", Category = "Meeting for Project ID 55006"},
+                
 
             };
         }
